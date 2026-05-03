@@ -1,6 +1,0 @@
-User-agent: *
-Allow: /
-
-# Block API keys or private routes if any
-Disallow: /api/
-
